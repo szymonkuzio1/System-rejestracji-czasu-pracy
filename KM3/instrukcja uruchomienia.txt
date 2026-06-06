@@ -1,0 +1,4 @@
+Windows:
+1. w pasku wyszukiwarki (u góry okna) należy wpisać "cmd"
+2. w oknie wiersza poleceń należy wpisać "python main.py"
+2a. należy dwukrotnie nacisnąć lewym przyciskiem myszy na plik "main.py"
